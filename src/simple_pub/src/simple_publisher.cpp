@@ -1,7 +1,3 @@
-/////////////////
-// This is simple topic publisher
-/////////////////
-
 #include <chrono>
 #include <functional>
 #include <memory>
